@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+## My name is Aachman and I am a student and budding developer.
+
+- 🔭 I’m currently working on my portpholio
+- 🌱 I’m currently learning javaScript
 
 <!--
 **AarKiMos/AarKiMos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
